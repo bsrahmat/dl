@@ -15,7 +15,7 @@ The book link can be accessed at the address: https://www.academia.edu/50288253.
 <br>
 </br>
 
-## Publications related to this book include the following papers:
+## An example of a publication related to this book:
 
 <a href="https://ieeexplore.ieee.org/document/10010310" target="_blank">Indonesia’s Open Unemployment Rate Prediction System Using Deep Learning</a>
 
