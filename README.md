@@ -6,7 +6,7 @@ This is a collection of scripts written using the Python Jupyter Notebook. This 
 
 The authors of this book are Basuki Rahmat and Budi Nugroho. They are both Lecturers in the Informatics Study Program, Universitas Pembangunan Nasional "Veteran" Jawa Timur, Indonesia.
 
-The book link can be accessed at the address: https://www.academia.edu/50288253.
+The book link can be accessed at the address: https://github.com/bsrahmat/ebook-03.
 
 <p align="center">
   <img src="https://github.com/bsrahmat/dl/blob/main/Cover_DL.jpg" alt="" class="img-responsive" width="700">
